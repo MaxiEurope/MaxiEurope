@@ -14,7 +14,7 @@
 ### Current project(s)
 
 - 🐠 recoding Fish n Economy
-- 🎉 recoding reaction bot -> sharding
+- 🎉 improving reaction bot
 
 ### Contact me
 
@@ -25,7 +25,7 @@
 
 1) [![Discord Bots](https://top.gg/api/widget/status/519287796549156864.svg)](https://top.gg/bot/519287796549156864) [Reaction bot🎉](https://top.gg/bot/519287796549156864/) - OwO reminder, custom bot reminders.
 
-2) [![Discord Bots](https://top.gg/api/widget/status/585142238217240577.svg)](https://top.gg/bot/585142238217240577) [Spaghetti Bot](https://top.gg/bot/585142238217240577) - Ever saw a hungry discord bot? Feed it, earn xp, climb the leaderboard and do quizzes.
+2) [![Discord Bots](https://top.gg/api/widget/status/585142238217240577.svg)](https://top.gg/bot/585142238217240577) [Spaghetti Bot](https://top.gg/bot/585142238217240577) - You love quizzes, want a simple economy, and leveling system? This bot is for you!
 
 3) [![Discord Bots](https://top.gg/api/widget/status/486926264800903171.svg)](https://top.gg/bot/486926264800903171) [Fish n Economy](https://top.gg/bot/486926264800903171) - Earn money by catching adorable fish and fighting other users.
 
