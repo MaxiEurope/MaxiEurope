@@ -3,18 +3,19 @@
 ### About me
 
 - I'm a teenager who started coding two and a half years ago... 🙄
-- ...my first project was a slow running discord bot which didn't even have a good looking help command... 🤔
-- ...and now I'm still coding discord bots like [reaction bot🎉](https://top.gg/bot/519287796549156864/) and *[HNS OwO Counter](https://discord.gg/hns)*. 🎈
+- ...my first project was a slow running discord bot that didn't even have a good looking help command... 🤔
+- ...and now I'm coding Discord bots like [reaction bot🎉](https://top.gg/bot/519287796549156864/) and *[HNS OwO Counter](https://discord.gg/hns)*. 🎈
 
 ### Now
 
 - 😅 I'm currently working on discord bots, what else?
-- 🧠 I'm currently learning [Python](https://www.python.org/). 🐍
+- 🧠 I'm currently learning [Python](https://www.python.org/) 🐍 and [PHP](https://www.php.net) 🔵
 
 ### Current project(s)
 
-- 🐠 recoding Fish n Economy
 - 🎉 improving reaction bot
+- 🐠 recoding Fish n Economy
+- 🔥 enhancing HNS OwO Counter
 
 ### Contact me
 
@@ -31,10 +32,10 @@
 
 ### Servers
 
-1) [Fish n Economy](https://discord.com/invite/W5Zj3G2) - Official support & OwO community server.
+1) [Reaction bot🎉](https://discord.com/invite/KwfCk7r) - Official support server for [Reaction bot🎉](https://top.gg/bot/519287796549156864/).
 
-2) [Reaction bot🎉](https://discord.com/invite/KwfCk7r) - Official support server for [Reaction bot🎉](https://top.gg/bot/519287796549156864/).
+2) [Fish n Economy](https://discord.com/invite/W5Zj3G2) - ~~Official support server~~ (bot offline).
 
 3) [🤖🌍 Discord bot land](https://discord.com/invite/BaKUKUN) - Growing programming & bot community on Discord.
 
-4) [Private server: soon ™](https://discord.com/404) - Will open soon 🎃😏
+4) [Private server: soon ™](https://discord.com/404) - Will open soon 👀😏
