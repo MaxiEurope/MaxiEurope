@@ -31,7 +31,7 @@
 
 - Someone who started coding three years ago. 😳
 - My first project was a slow running discord bot which didn't even have a good looking help command. 🤔
-- And currently I'm working on Discord bots such as [reaction bot🎉](https://top.gg/bot/519287796549156864/) and [HNS OwO Counter](https://discord.gg/hns). 🎈
+- Currently I'm working on Discord bots such as [reaction bot🎉](https://top.gg/bot/519287796549156864/) and [HNS OwO Counter](https://discord.gg/hns). 🎈
 
 ### Plans
 
