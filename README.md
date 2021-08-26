@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/MaxiEurope/MaxiEurope">
-        <img src="https://github.com/MaxiEurope/MaxiEurope/assets/maxi.png" width="128" height="128">
+        <img src="./assets/maxi.png" width="128" height="128">
     </a>
 </p>
 
@@ -10,6 +10,9 @@
     <br>
     <a href="https://discord.gg/KwfCk7r">My server</a>
 </p>
+<div align="center">
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="MaxiEurope" data-color="#FF5F5F" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+</div>
 <br>
 <p align="center">
     <a href="https://hits.seeyoufarm.com">
@@ -63,4 +66,4 @@
 
 ### Donate and support my work
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="MaxiEurope" data-color="#FF5F5F" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
