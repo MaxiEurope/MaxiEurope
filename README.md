@@ -5,20 +5,26 @@
 </p>
 
 <h2 align="center">Hello, kind stranger 👋😳</h2>
-<p align="center">
+<div align="center">
     Someone who finds great pleasure in the art of Computer programming.
     <br>
-    <a href="https://discord.gg/KwfCk7r">My server</a>
-</p>
-<div align="center">
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="MaxiEurope" data-color="#FF5F5F" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 </div>
 <br>
-<p align="center">
+<div align="center">
+    <a href="https://www.buymeacoffee.com/MaxiEurope">
+        <img src="./assets/red-button.png" width="182" height="51"/>
+    </a>
+</div>
+<div align="center">
     <a href="https://hits.seeyoufarm.com">
         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMaxiEurope%2FMaxiEurope&count_bg=%232290E0&title_bg=%232290E0&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/>
     </a>
-</p>
+</div>
+<div align="center">
+    <a href="https://discord.gg/KwfCk7r">
+        <img src="https://discord.com/api/guilds/403356187518697483/widget.png"/>
+    </a>
+</div>
 <br>
 
 ### About me
@@ -61,9 +67,3 @@
 2) [Fish n Economy](https://discord.com/invite/W5Zj3G2) - ~~Official support server~~ (bot offline).
 
 3) [🤖🌍 Discord bot land](https://discord.com/invite/BaKUKUN) - Growing programming & bot community on Discord.
-
-4) [Private server: soon ™](https://discord.com/404) - Will open soon 👀😏
-
-### Donate and support my work
-
-
