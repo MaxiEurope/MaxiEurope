@@ -11,8 +11,13 @@
 </div>
 <br>
 <div align="center">
+    <a href='https://ko-fi.com/A0A7EE44L' target='_blank'>
+        <img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+    </a>
+</div>
+<div align="center">
     <a href="https://www.buymeacoffee.com/MaxiEurope">
-        <img src="./assets/red-button.png" width="182" height="51"/>
+        <img src="./assets/red-button.png" width="150" height="36"/>
     </a>
 </div>
 <div align="center">
@@ -51,6 +56,7 @@
 
 - Discord: [`maxi#7777`](https://discord.bio/p/7777)
 - Steam: [`maxi7777`](https://steamcommunity.com/id/maxi7777/)
+- ko-fi: [maxieurope](https://ko-fi.com/maxieurope)
 
 ### Bots
 
