@@ -34,37 +34,39 @@
 
 ### About me
 
-- Someone who started coding three years ago. 😳
-- My first project was a slow running discord bot which didn't even have a good looking help command. 🤔
-- Currently I'm working on Discord bots such as [reaction bot🎉](https://top.gg/bot/519287796549156864/) and [HNS OwO Counter](https://discord.gg/hns). 🎈
+- Someone who started coding four years ago. 😳
+- My first project was a slow-running discord bot that didn't even have a good-looking help command. 🤔
+- Currently, I'm working on Discord bots such as [reaction bot🎉](https://top.gg/bot/519287796549156864/) and [HNS OwO Counter](https://discord.gg/hns). 🎈
 
 ### Plans
 
-- 😅 Tryna improve my coding skills of course!
-- 🧠 Learning [Python](https://www.python.org/) 🐍 and [PHP](https://www.php.net) 🔵
+- 😅 Trying to improve my coding skills!
+- 🐠 Fish n Economy and Spaghetti bot V2
+- 🌐 My own personal website
 
 ### Current project(s)
 
-- 🎉 adding redis and a better sharding manager to reaction bot
-- 🐠 recoding Fish n Economy and Spaghetti bot
+- 🎉 improving reaction bot
+- 🎈 recoding HNS OwO Counter
 
 ### Finished lately
 
-- 🎈 added slash command to HNS OwO Counter
+- 📊 added leaderboards to reaction bot
+- 📜 added automatic quests to reaction bot
 
 ### Contact me at
 
-- Discord: [`maxi#7777`](https://discord.bio/p/7777)
+- Discord: [`maxi#7777`](https://dsc.bio/7777)
 - Steam: [`maxi7777`](https://steamcommunity.com/id/maxi7777/)
 - ko-fi: [maxieurope](https://ko-fi.com/maxieurope)
 
 ### Bots
 
-1) [![Discord Bots](https://top.gg/api/widget/status/519287796549156864.svg)](https://top.gg/bot/519287796549156864) [Reaction bot🎉](https://top.gg/bot/519287796549156864/) - OwO reminder, custom bot reminders.
+1) [![Discord Bots](https://top.gg/api/widget/servers/519287796549156864.svg)](https://top.gg/bot/519287796549156864) [Reaction bot🎉](https://top.gg/bot/519287796549156864/) - Utility bot for OwO bot.
 
-2) [![Discord Bots](https://top.gg/api/widget/status/585142238217240577.svg)](https://top.gg/bot/585142238217240577) [Spaghetti Bot](https://top.gg/bot/585142238217240577) - You love quizzes, want a simple economy, and leveling system? This bot is for you!
+2) [![Discord Bots](https://top.gg/api/widget/servers/585142238217240577.svg)](https://top.gg/bot/585142238217240577) [Spaghetti Bot](https://top.gg/bot/585142238217240577) - You love quizzes, want a simple economy, and leveling system? This bot is for you!
 
-3) [![Discord Bots](https://top.gg/api/widget/status/486926264800903171.svg)](https://top.gg/bot/486926264800903171) [Fish n Economy](https://top.gg/bot/486926264800903171) - Earn money by catching adorable fish and fighting other users.
+3) [![Discord Bots](https://top.gg/api/widget/servers/486926264800903171.svg)](https://top.gg/bot/486926264800903171) [Fish n Economy](https://top.gg/bot/486926264800903171) - Earn money by catching adorable fish and fighting other users.
 
 ### Servers
 
@@ -73,3 +75,5 @@
 2) [Fish n Economy](https://discord.com/invite/W5Zj3G2) - ~~Official support server~~ (bot offline).
 
 3) [🤖🌍 Discord bot land](https://discord.com/invite/BaKUKUN) - Growing programming & bot community on Discord.
+
+4) [Hot 'N Spicy](https://discord.com/invite/hns) - Bot grinding community.
